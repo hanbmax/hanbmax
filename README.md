@@ -15,11 +15,11 @@ Let's connect! <br>
 
 My experienced programming languages: <br>
 
-<img align="left" title="Python" alt="python" width="26px" src="./logos/python.svg" />
-<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
-<img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
-<img align="left" title="Java" alt="Java" width="26px" src="./logos/java.svg" />
-<img align="left" title="R" alt="R" width="26px" src="./logos/r.svg" />
+<img align="left" title="Python" alt="python" width="26px" height="26px" src="./logos/python.svg" />
+<img align="left" title="C++" alt="C++" width="26px" height="26px" src="./logos/cplusplus.svg" />
+<img align="left" title="C" alt="C" width="26px" height="26px" src="./logos/c.svg" />
+<img align="left" title="Java" alt="Java" width="26px" height="26px" src="./logos/java.svg" />
+<img align="left" title="R" alt="R" width="26px" height="26px" src="./logos/r.svg" />
 
 <br>
 <br>
