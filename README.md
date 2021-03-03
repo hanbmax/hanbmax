@@ -27,7 +27,8 @@ My experienced programming languages: <br>
 My preferred tools: <br>
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
-<img align="left" title="Atom" alt="Visual Studio Code" width="26px" src="./logos/atom.svg" />
+<img align="left" title="Atom" alt="Atom" width="26px" src="./logos/atom.svg" />
 <img align="left" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
+<img align="left" title="Google Colab" alt="Google Colab" width="26px" src="./logos/googlecolab.png" />
 
 </h3>
