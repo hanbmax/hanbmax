@@ -7,8 +7,8 @@
 
 Let's connect! <br>
 
-<a href="https://linkedin.com/in/nguyenhan97/"><img align="left" title="LinkedIn - Han N.K. Nguyen" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
-<a href="mailto:nguyenhandev@gmail.com"><img align="left" title="Han Nguyen - Mailbox" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
+<a href="https://linkedin.com/in/nguyenhan97/"><img align="left" title="Han's LinkedIn" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
+<a href="mailto:nguyenhandev@gmail.com"><img align="left" title="Han's Mailbox" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
 
 <br>
 <br>
