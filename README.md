@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 Han is here!</h1>
-<h3 align="center">A graduating student at the University of California, Davis</h3>
+<h3 align="center">A graduating Computer Science student at the University of California, Davis</h3>
 
 <img align="left" title="Han Nguyen" alt="Han Nguyen" width="400" src="./logos/coding.gif" />
 
